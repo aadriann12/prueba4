@@ -11,6 +11,6 @@ package com.mycompany.mavenproject19;
 public class Mavenproject19 {
 
     public static void main(String[] args) {
-        System.out.println("Hello csaf!");
+        System.out.println("remoto!");
     }
 }
